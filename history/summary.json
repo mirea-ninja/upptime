@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/schedule.mirea.ninja",
     "slug": "schedule-api",
     "status": "up",
-    "uptime": "8.97%",
-    "uptimeDay": "8.97%",
-    "uptimeWeek": "8.97%",
-    "uptimeMonth": "8.97%",
-    "uptimeYear": "8.97%",
-    "time": 407,
-    "timeDay": 407,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "uptime": "60.35%",
+    "uptimeDay": "60.35%",
+    "uptimeWeek": "60.35%",
+    "uptimeMonth": "60.35%",
+    "uptimeYear": "60.35%",
+    "time": 415,
+    "timeDay": 415,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2021-10-13": 2
     }
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/schedule.mirea.ninja",
     "slug": "news-api",
     "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 288,
     "timeDay": 288,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2021-10-13": 2
+      "2021-10-13": 6
     }
   }
 ]
