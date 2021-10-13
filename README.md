@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://ninja-official.github.io/upptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Mirea Ninja Upptime](https://ninja-official.github.io/upptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
