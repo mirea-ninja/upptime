@@ -6,7 +6,7 @@ sites:
   - name: Mirea Ninja
     url: https://mirea.ninja/
   - name: Schedule API
-    url: http://schedule.mirea.ninja:5000
+    url: http://schedule.mirea.ninja:5000/api/schedule/groups
   - name: News API
     url: http://schedule.mirea.ninja:5050/news/count
 
