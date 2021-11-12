@@ -1,7 +1,7 @@
 url: http://schedule.mirea.ninja:5050/news/count
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-11-12T06:44:57.170Z
+status: up
+code: 200
+responseTime: 256
+lastUpdated: 2021-11-12T09:02:20.952Z
 startTime: Wed Oct 13 2021 08:37:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
