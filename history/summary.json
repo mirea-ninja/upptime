@@ -24,7 +24,7 @@
     "url": "http://schedule.mirea.ninja:5000/api/schedule/groups",
     "icon": "https://favicons.githubusercontent.com/schedule.mirea.ninja",
     "slug": "schedule-api",
-    "status": "up",
+    "status": "down",
     "uptime": "91.71%",
     "uptimeDay": "97.62%",
     "uptimeWeek": "93.31%",
