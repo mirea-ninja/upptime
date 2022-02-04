@@ -6,8 +6,8 @@ sites:
     url: https://mirea.ninja/
   - name: Schedule API
     url: http://schedule.mirea.ninja:5000/api/schedule/groups
-  - name: News API
-    url: http://schedule.mirea.ninja:5050/news/count
+  - name: CMS Strapi
+    url: https://cms.mirea.ninja/
 
 assignees:
   - 0niel
