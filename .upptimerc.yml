@@ -8,6 +8,8 @@ sites:
     url: http://schedule.mirea.ninja:5000/api/schedule/groups
   - name: CMS Strapi
     url: https://cms.mirea.ninja/
+  - name: Moodle Backend
+    url: https://mirea.ninja:5000/
 
 assignees:
   - 0niel
