@@ -10,6 +10,10 @@ sites:
     url: https://cms.mirea.ninja/
   - name: Moodle Backend
     url: https://mirea.ninja:5000/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 assignees:
   - 0niel
