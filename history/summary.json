@@ -4,9 +4,9 @@
     "url": "https://mirea.ninja/",
     "icon": "https://favicons.githubusercontent.com/mirea.ninja",
     "slug": "mirea-ninja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1043,
     "timeYear": 1088,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-01-25": 15,
       "2021-12-08": 22
     }
@@ -25,12 +26,12 @@
     "url": "https://schedule.mirea.ninja/api/schedule/groups",
     "icon": "https://favicons.githubusercontent.com/schedule.mirea.ninja",
     "slug": "schedule-api",
-    "status": "up",
-    "uptime": "68.53%",
-    "uptimeDay": "60.71%",
+    "status": "down",
+    "uptime": "68.56%",
+    "uptimeDay": "60.70%",
     "uptimeWeek": "67.00%",
     "uptimeMonth": "86.52%",
-    "uptimeYear": "68.53%",
+    "uptimeYear": "68.56%",
     "time": 664,
     "timeDay": 581,
     "timeWeek": 657,
@@ -157,9 +158,9 @@
     "url": "https://mirea.ninja:5000/",
     "icon": "https://favicons.githubusercontent.com/mirea.ninja",
     "slug": "moodle-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,6 +169,8 @@
     "timeWeek": 391,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]
