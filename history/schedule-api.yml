@@ -1,7 +1,7 @@
 url: https://schedule.mirea.ninja/api/schedule/groups
-status: down
-code: 404
-responseTime: 578
-lastUpdated: 2022-03-07T01:07:33.631Z
+status: up
+code: 200
+responseTime: 653
+lastUpdated: 2022-03-07T07:39:00.255Z
 startTime: Wed Oct 13 2021 08:37:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
