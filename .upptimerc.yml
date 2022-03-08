@@ -6,6 +6,10 @@ sites:
     url: https://mirea.ninja/
   - name: Schedule API
     url: https://schedule.mirea.ninja/api/schedule/groups
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: CMS Strapi
     url: https://cms.mirea.ninja/
   - name: Moodle Backend
