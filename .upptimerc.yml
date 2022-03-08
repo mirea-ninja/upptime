@@ -10,6 +10,8 @@ sites:
     url: https://cms.mirea.ninja/
   - name: Moodle Backend
     url: https://mirea.ninja:5000/
+  - name: Assistants API
+    url: https://assistants.mirea.ninja/api/v1/uptime
     expectedStatusCodes:
       - 200
       - 201
