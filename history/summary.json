@@ -145,19 +145,19 @@
     "url": "https://cms.mirea.ninja/",
     "icon": "https://favicons.githubusercontent.com/cms.mirea.ninja",
     "slug": "cms-strapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 1108,
-    "timeWeek": 960,
-    "timeMonth": 807,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 740,
+    "timeDay": 1214,
+    "timeWeek": 1012,
+    "timeMonth": 827,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-05-29": 0
+      "2022-05-29": 15
     }
   },
   {
@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2022-05-29": 1221,
+      "2022-05-29": 1236,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
